@@ -24,5 +24,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/CarlosSimon02/fem-product-preview-card-component/edit/main/README.md](https://github.com/CarlosSimon02/fem-product-preview-card-component/edit/main/README.md)
+- Solution URL: [https://github.com/CarlosSimon02/fem-product-preview-card-component/edit/main](https://github.com/CarlosSimon02/fem-product-preview-card-component/edit/main)
 - Live Site URL: [https://fem-product-preview-card-component-carlossimon.vercel.app/](https://fem-product-preview-card-component-carlossimon.vercel.app/)
