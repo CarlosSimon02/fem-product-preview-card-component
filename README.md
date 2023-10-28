@@ -24,5 +24,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/CarlosSimon02/web-dev-challenges/edit/main/product-preview-card-component-main](https://github.com/CarlosSimon02/web-dev-challenges/edit/main/product-preview-card-component-main)
-- Live Site URL: [https://product-preview-card-component-main-challenge.vercel.app/](https://product-preview-card-component-main-challenge.vercel.app/)
+- Solution URL: [https://github.com/CarlosSimon02/fem-product-preview-card-component/edit/main/README.md](https://github.com/CarlosSimon02/fem-product-preview-card-component/edit/main/README.md)
+- Live Site URL: [https://fem-product-preview-card-component-carlossimon.vercel.app/](https://fem-product-preview-card-component-carlossimon.vercel.app/)
